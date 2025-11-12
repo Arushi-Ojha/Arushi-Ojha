@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_TO_YOUR_PINK_BANNER.png" alt="Hi, I'm [Your Name]">
+  <img src="https://drive.google.com/file/d/1pp6W6Uv-kjE8rMZG0HAwVzt8gkEU7V1m/view?usp=sharing" alt="Hi, I'm Arushi">
 </p>
 
 <h1 align="center">Hi there, I'm Arushi! 👋</h1>

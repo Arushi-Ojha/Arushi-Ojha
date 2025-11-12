@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/6jHaawJb3" alt="Hi, I'm Arushi">
+  <img src=`https://pin.it/6jHaawJb3` alt="Hi, I'm Arushi">
 </p>
 
 <h1 align="center">Hi there, I'm Arushi! 👋</h1>

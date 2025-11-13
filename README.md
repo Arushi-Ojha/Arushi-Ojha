@@ -54,13 +54,13 @@
 <h2 align="center">✨ My Key Projects ✨</h2>
 <p align="center">
   <a href="https://github.com/Arushi-Ojha/SAR-A">
-    <img src="satellite.png" alt="SAR-A Project"/>
+    <img src="s.png" alt="SAR-A Project"/>
   </a>
   <a href="https://github.com/Arushi-Ojha/Sibyl">
-    <img src="hamburger.png" alt="Sibyl Recipe Project"/>
+    <img src="h.png" alt="Sibyl Recipe Project"/>
   </a>
   <a href="https://github.com/Arushi-Ojha/AIattorney">
-    <img src="law.png" alt="Blockchain Certificate Project"/>
+    <img src="l.png" alt="Blockchain Certificate Project"/>
   </a>
 </p>
 

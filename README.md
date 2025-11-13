@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Arushi(1).png" alt="Hi, I'm Arushi">
+  <img src="Aru.png" alt="Hi, I'm Arushi">
 </p>
 
 <h1 align="center">Hi there, I'm Arushi! 👋</h1>

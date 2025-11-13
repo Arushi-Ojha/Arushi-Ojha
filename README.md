@@ -54,13 +54,13 @@
 <h2 align="center">✨ My Key Projects ✨</h2>
 <p align="center">
   <a href="https://github.com/Arushi-Ojha/SAR-A">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=SAR-A&theme=radical" alt="SAR-A Project"/>
+    <img src="https://sar-a.onrender.com/" alt="SAR-A Project"/>
   </a>
   <a href="https://github.com/Arushi-Ojha/Sibyl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=Sibyl&theme=radical" alt="Sibyl Recipe Project"/>
+    <img src="https://sibyl-two.vercel.app/" alt="Sibyl Recipe Project"/>
   </a>
-  <a href="https://github.com/Arushi-Ojha/Blockchain-Certificate-Verification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=Blockchain-Certificate-Verification&theme=radical" alt="Blockchain Certificate Project"/>
+  <a href="https://github.com/Arushi-Ojha/AIattorney">
+    <img src="https://main.ddbwzjkr9dy2b.amplifyapp.com/" alt="Blockchain Certificate Project"/>
   </a>
 </p>
 
@@ -68,6 +68,6 @@
 
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arushi-Ojha&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-Ojha&layout=compact&theme=radical" alt="Top Languages"/>
 </p>

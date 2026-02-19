@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="Aru.png" alt="Hi, I'm Arushi">
+  <img src="Aru.png" alt="Hi, I'm Arushi" width="150" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">Hi there, I'm Arushi! 👋🌸</h1>
+<h1 align="center">Hi there, I'm Arushi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> 🌸</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -23,90 +23,85 @@
 
 <h2 align="center">🎀 About Me 🎀</h2>
 <p align="center">
-  🌱 <b>Currently Learning:</b> Mastering Data Structures and Algorithms in C++ and earning Google Cloud Platform (GCP) skill badges.<br>
+  🌱 <b>Currently Learning:</b> Mastering Data Structures and Algorithms in <b>C++</b> and earning <b>Google Cloud Platform (GCP)</b> skill badges.<br>
   👯 <b>Community & Leadership:</b> Proud Campus Mantri for GeeksforGeeks.<br>
   🌍 <b>Open Source:</b> Active contributor to programs like GirlScript Summer of Code (GSSoC), Hacktoberfest, and Social Winter of Code (SWoC).<br>
-  ⚡ <b>Fun Fact:</b> When I'm not coding, you can probably find me hunting down the best spicy street food in Bengaluru!
+  ⚡ <b>Fun Fact:</b> When I'm not coding, you can probably find me hunting down the best spicy chaat and momos in Bengaluru!
 </p>
 
-<br>
-
----
-
-<h2 align="center">🌸 My Tech Stack 🌸</h2>
-
-<p align="center"><b>Languages & Core Technologies:</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-E6007A?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-E6007A?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-E6007A?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E6007A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-E6007A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="600" alt="divider">
 </p>
 
-<p align="center"><b>Frontend, Backend & Databases:</b></p>
+<h2 align="center">🌸 My Top Languages & Arsenal 🌸</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-E6007A?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Electron-E6007A?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
-  <img src="https://img.shields.io/badge/Node.js-E6007A?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-E6007A?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-E6007A?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/MongoDB-E6007A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,fastapi,html,css,gcp,git,github&perline=7" alt="Tech Stack Icons" />
+  </a>
 </p>
 
-<p align="center"><b>Tools & Concepts:</b></p>
+<p align="center"><b>What I work with most:</b></p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>C++</b><br>Data Structures & Algorithms</td>
+      <td align="center"><b>Python</b><br>Backend & Data Modeling</td>
+      <td align="center"><b>JavaScript & React</b><br>Frontend & Desktop Apps</td>
+      <td align="center"><b>GCP</b><br>Cloud Infrastructure</td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-E6007A?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-E6007A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-E6007A?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Geospatial(SAR)-E6007A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Geospatial/SAR"/>
-  <img src="https://img.shields.io/badge/Blockchain-E6007A?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="600" alt="divider">
 </p>
 
-<br>
-
----
-
-<h2 align="center">✨ Featured Projects ✨</h2>
+<h2 align="center">✨ Recent Projects ✨</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Arushi-Ojha/SAR-A">
-        <img src="s.png" alt="SAR-A Project" width="100%"/><br>
-        <b>SAR-A</b>
-      </a>
-      <br><i>Geospatial data application focusing on SAR imagery.</i>
+    <td width="50%" valign="top">
+      <h3 align="center">💌 Lady Whistledown</h3>
+      <p align="center">
+        <i>A sleek desktop application built to beautifully visualize the structure of code repositories. Includes a seamless auto-update feature.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Electron-E6007A?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+        <img src="https://img.shields.io/badge/React-E6007A?style=flat-square&logo=react&logoColor=white" alt="React"/>
+      </p>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Arushi-Ojha/Sibyl">
-        <img src="h.png" alt="Sibyl Recipe Project" width="100%"/><br>
-        <b>Sibyl</b>
-      </a>
-      <br><i>An intelligent recipe discovery platform built with React, FastAPI, and MongoDB.</i>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Sanket</h3>
+      <p align="center">
+        <i>A predictive economic intelligence platform for India that forecasts hyper-local inflation based on government data and migration trends.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-E6007A?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/React-E6007A?style=flat-square&logo=react&logoColor=white" alt="React"/>
+      </p>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Arushi-Ojha/AIattorney">
-        <img src="l.png" alt="Blockchain Certificate Project" width="100%"/><br>
-        <b>AIattorney</b>
-      </a>
-      <br><i>Blockchain-based application.</i>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br>
+      <h3 align="center">🍳 Sibyl</h3>
+      <p align="center">
+        <i>An intelligent recipe discovery platform that connects users with meals based on available ingredients.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-E6007A?style=flat-square&logo=react&logoColor=white" alt="React"/>
+        <img src="https://img.shields.io/badge/FastAPI-E6007A?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/MongoDB-E6007A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <b>Other Notable Work:</b><br>
-  🛠️ <b>Lady Whistledown:</b> A desktop app built with Electron and React to beautifully visualize code repository structures.<br>
-  📈 <b>Sanket:</b> A predictive economic intelligence platform for India forecasting hyper-local inflation using Python and React.
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="600" alt="divider">
 </p>
 
-<br>
-
----
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arushi-Ojha&show_icons=true&theme=radical&color_text=E6007A" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-Ojha&layout=compact&theme=radical&color_text=E6007A" alt="Top Languages" width="48%"/>
+  <i>Let's connect and build something amazing together! 🎀</i>
 </p>

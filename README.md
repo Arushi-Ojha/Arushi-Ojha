@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="Aru.png" alt="Arushi" width="150" style="border-radius: 50%; border: 3px solid #E6007A;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/light.svg">
+    <img alt="Arushi Ojha Banner" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/light.svg" width="100%">
+  </picture>
 </p>
-
-<h1 align="center" style="color: #E6007A;">Arushi Ojha</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -83,15 +85,15 @@
 <h2 align="center" style="color: #E6007A;">GitHub Analytics & Charts</h2>
 
 <p align="center">
-  <!-- General Stats Card (Pink & White) -->
+  <!-- General Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&title_color=E6007A&icon_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%">
   
-  <!-- Languages Pie Chart (Using Profile Summary Cards) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arushiojha2006&theme=default" alt="Top Languages Pie Chart" width="48%">
+  <!-- Reliable Top Languages Card (Replaced the broken Pie Chart API) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=compact&title_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10" alt="Top Languages Chart" width="48%">
 </p>
 
 <p align="center">
-  <!-- Activity Graph (Line Chart) dynamically generated in Pink -->
+  <!-- Activity Graph (Line Chart) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arushiojha2006&bg_color=ffffff&color=E6007A&line=E6007A&point=E6007A&area=true&hide_border=true" alt="Activity Graph Line Chart" width="100%">
 </p>
 
@@ -99,11 +101,6 @@
 
 <h2 align="center" style="color: #E6007A;">Contribution Snake Animation</h2>
 
-<!-- 
-  NOTE: This uses the correct raw.githubusercontent.com path. 
-  If this still shows a 404, you need to create a .yml file in your repository 
-  to run the Action that generates this image. 
--->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/github-contribution-grid-snake-dark.svg">

@@ -1,112 +1,41 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
 <p align="center">
   <picture>
-    <!-- Assuming you also have a dark.svg. If not, just swap this link for the light.svg one too -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arushi-Ojha/Arushi-Ojha/main/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arushi-Ojha/Arushi-Ojha/main/light.svg">
-    <img alt="Arushi Ojha Banner" src="https://raw.githubusercontent.com/Arushi-Ojha/Arushi-Ojha/main/light.svg" width="100%">
+    <img alt="Arushi Ojha Hero Banner" src="https://raw.githubusercontent.com/Arushi-Ojha/Arushi-Ojha/main/light.svg">
   </picture>
 </p>
 
-<!-- ===== TYPING TEXT ===== -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=E6007A&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Training+%7C+Bengaluru;Focusing+on+Scalable+Backend+%26+Cloud+Architecture;Batchelors+in+Computer+Science+%40+Jain+University;Actively+seeking+SWE+internships.&v=1" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=4000&pause=1000&color=E6007A&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer+in+Training+%7C+Bengaluru;Focusing+on+Scalable+Backend+%26+Cloud+Architecture;Bachelors+in+Computer+Science+%40+Jain+University;Actively+seeking+SWE+internships." alt="Typing Text">
 </p>
 
-<!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
-  <a href="https://linkedin.com/in/arushiojha2006/">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=E6007A" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:arushiojha100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=E6007A" alt="Gmail"/>
-  </a>
+  <a href="https://linkedin.com/in/arushi-ojha"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=E6007A" alt="LinkedIn"></a>
+  <a href="mailto:contact.arushiojha@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=flat-square&logo=gmail&logoColor=E6007A" alt="Gmail"></a>
 </p>
 
 ---
 
-<h2 align="center" style="color: #E6007A;">Capabilities & Focus Areas</h2>
+<h3 align="center">Capabilities & Focus Areas</h3>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 style="color: #E6007A;">Backend Engineering & API Design</h4>
-      <ul>
-        <li>Developing robust APIs and microservices using <b>Python (FastAPI, Flask)</b> and <b>Node.js (Express)</b>.</li>
-        <li>Database modeling and management with SQL and NoSQL (MongoDB).</li>
-        <li>Implementing application logic and predictive modeling integration.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=E6007A" alt="Python"/>
-        <img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=E6007A" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=E6007A" alt="MongoDB"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 style="color: #E6007A;">Full-Stack & Desktop Application Development</h4>
-      <ul>
-        <li>Building interactive user interfaces with <b>React.js</b>.</li>
-        <li>Cross-platform desktop application development using <b>Electron</b>.</li>
-        <li>Experience with data visualization and application auto-update implementations.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=E6007A" alt="React"/>
-        <img src="https://img.shields.io/badge/Electron-ffffff?style=flat-square&logo=electron&logoColor=E6007A" alt="Electron"/>
-        <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=E6007A" alt="JavaScript"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 style="color: #E6007A;">Systems Programming & Cloud Architecture</h4>
-      <ul>
-        <li>Strong foundation in Data Structures and Algorithms using <b>C++</b>.</li>
-        <li>Deploying and managing infrastructure on <b>Google Cloud Platform (GCP)</b>.</li>
-        <li>Version control and collaborative workflow management with Git/GitHub.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=c%2B%2B&logoColor=E6007A" alt="C++"/>
-        <img src="https://img.shields.io/badge/GCP-ffffff?style=flat-square&logo=google-cloud&logoColor=E6007A" alt="GCP"/>
-        <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=E6007A" alt="Git"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 style="color: #E6007A;">Technical Arsenal</h4>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,fastapi,html,css,gcp,git,github,visualstudio,linux,latex&perline=4" alt="Tech Stack Icons" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Backend Engineering & API Design | Full-Stack & Desktop Application |
+| :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=E6007A) ![FastAPI](https://img.shields.io/badge/FastAPI-FFFFFF?style=flat-square&logo=fastapi&logoColor=E6007A) ![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=flask&logoColor=E6007A) <br><br> ![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=E6007A) ![Express](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=E6007A) ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=flat-square&logo=mongodb&logoColor=E6007A) | ![React.js](https://img.shields.io/badge/React.js-FFFFFF?style=flat-square&logo=react&logoColor=E6007A) ![Electron](https://img.shields.io/badge/Electron-FFFFFF?style=flat-square&logo=electron&logoColor=E6007A) <br><br> ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=E6007A) |
+| **Systems Programming & Cloud Architecture** | **Technical Arsenal** |
+| ![C++](https://img.shields.io/badge/C++%20(DSA)-FFFFFF?style=flat-square&logo=cplusplus&logoColor=E6007A) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-FFFFFF?style=flat-square&logo=googlecloud&logoColor=E6007A) <br><br> ![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=E6007A) ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=E6007A) | <br><img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,mongo,fastapi,html,css,gcp,git,github,vscode,linux,latex&theme=light" alt="Technical Arsenal"/><br> |
 
 ---
 
-<!-- ===== DYNAMIC CHARTS (Username corrected to Arushi-Ojha) ===== -->
-<h2 align="center" style="color: #E6007A;">GitHub Analytics & Charts</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arushi-Ojha&show_icons=true&title_color=E6007A&icon_color=FFB6C1&text_color=94A3B8&bg_color=0D1117&hide_border=true&border_radius=10&v=3" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Arushi-Ojha&show_icons=true&title_color=E6007A&icon_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10&v=3" alt="GitHub Stats" width="48%">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-Ojha&layout=donut&title_color=E6007A&text_color=94A3B8&bg_color=0D1117&hide_border=true&border_radius=10&v=3" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-Ojha&layout=donut&title_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10&v=3" alt="Top Languages Donut Chart" width="48%">
-  </picture>
-</div>
-
----
-
-<!-- ===== CONTRIBUTION SNAKE (Raw URL corrected) ===== -->
-<h2 align="center" style="color: #E6007A;">Contribution Snake Animation</h2>
+<h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arushi-Ojha/Arushi-Ojha/main/snake-dark.svg" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arushi-Ojha&bg_color=FFFFFF&hide_border=true&title_color=E6007A&icon_color=E6007A&text_color=333333&v=1" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-Ojha&layout=donut&bg_color=FFFFFF&hide_border=true&title_color=E6007A&text_color=333333&icon_color=E6007A&v=1" alt="Top Languages">
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arushi-Ojha/Arushi-Ojha/main/snake-dark.svg" alt="Contribution Snake">
+</p>

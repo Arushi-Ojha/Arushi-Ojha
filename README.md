@@ -1,9 +1,10 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/light.svg">
-    <img alt="Arushi Ojha Banner" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/light.svg" width="100%">
+    <!-- Assuming you also have a dark.svg. If not, just swap this link for the light.svg one too -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arushi-Ojha/Arushi-Ojha/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arushi-Ojha/Arushi-Ojha/main/light.svg">
+    <img alt="Arushi Ojha Banner" src="https://raw.githubusercontent.com/Arushi-Ojha/Arushi-Ojha/main/light.svg" width="100%">
   </picture>
 </p>
 
@@ -84,28 +85,28 @@
 
 ---
 
-<!-- ===== DYNAMIC CHARTS (With Cache Busting v=2) ===== -->
+<!-- ===== DYNAMIC CHARTS (Username corrected to Arushi-Ojha) ===== -->
 <h2 align="center" style="color: #E6007A;">GitHub Analytics & Charts</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&title_color=E6007A&icon_color=FFB6C1&text_color=94A3B8&bg_color=0D1117&hide_border=true&border_radius=10&v=2" />
-    <img src="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&title_color=E6007A&icon_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10&v=2" alt="GitHub Stats" width="48%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Arushi-Ojha&show_icons=true&title_color=E6007A&icon_color=FFB6C1&text_color=94A3B8&bg_color=0D1117&hide_border=true&border_radius=10&v=3" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arushi-Ojha&show_icons=true&title_color=E6007A&icon_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10&v=3" alt="GitHub Stats" width="48%">
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=donut&title_color=E6007A&text_color=94A3B8&bg_color=0D1117&hide_border=true&border_radius=10&v=2" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=donut&title_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10&v=2" alt="Top Languages Donut Chart" width="48%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-Ojha&layout=donut&title_color=E6007A&text_color=94A3B8&bg_color=0D1117&hide_border=true&border_radius=10&v=3" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arushi-Ojha&layout=donut&title_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10&v=3" alt="Top Languages Donut Chart" width="48%">
   </picture>
 </div>
 
 ---
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
+<!-- ===== CONTRIBUTION SNAKE (Raw URL corrected) ===== -->
 <h2 align="center" style="color: #E6007A;">Contribution Snake Animation</h2>
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/snake-dark.svg" width="100%">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arushi-Ojha/Arushi-Ojha/main/snake-dark.svg" width="100%">
 </p>
 
 ---

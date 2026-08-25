@@ -1,5 +1,6 @@
 <p align="center">
   <picture>
+    <!-- Check if your branch is 'main' or 'master', and ensure the file is exactly lowercase 'dark.svg' -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/light.svg">
     <img alt="Arushi Ojha Banner" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/light.svg" width="100%">
@@ -8,13 +9,12 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=E6007A&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Training+%7C+Bengaluru;Focusing+on+Scalable+Backend+%26+Cloud+Architecture;B.Sc.+Computer+Science+%40+Jain+University;Actively+seeking+SWE+internships." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=E6007A&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Training+%7C+Bengaluru;Focusing+on+Scalable+Backend+%26+Cloud+Architecture;Batchelors+in+Computer+Science+%40+Jain+University;Actively+seeking+SWE+internships." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/arushiojha2006/">
-    <!-- White badges with Pink logos/text -->
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=E6007A" alt="LinkedIn"/>
   </a>
   <a href="mailto:arushiojha100@gmail.com">
@@ -88,13 +88,8 @@
   <!-- General Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&title_color=E6007A&icon_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%">
   
-  <!-- Reliable Top Languages Card (Replaced the broken Pie Chart API) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=compact&title_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10" alt="Top Languages Chart" width="48%">
-</p>
-
-<p align="center">
-  <!-- Activity Graph (Line Chart) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arushiojha2006&bg_color=ffffff&color=E6007A&line=E6007A&point=E6007A&area=true&hide_border=true" alt="Activity Graph Line Chart" width="100%">
+  <!-- Donut/Pie Chart for Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=donut&title_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10" alt="Top Languages Pie Chart" width="48%">
 </p>
 
 ---
@@ -102,11 +97,8 @@
 <h2 align="center" style="color: #E6007A;">Contribution Snake Animation</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <!-- Points directly to snake-dark.svg in the root (main branch) directory as requested -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/snake-dark.svg" width="100%">
 </p>
 
 ---

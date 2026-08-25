@@ -1,115 +1,92 @@
-<p align="center">
-  <img src="Aru.png" alt="Arushi" width="150" style="border-radius: 50%; border: 3px solid #E6007A;">
-</p>
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- Make sure light.svg and dark.svg are in the root of your arushiojha2006 repository -->
 
-<h1 align="center" style="color: #E6007A;">Arushi Ojha</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/light.svg">
+  <img alt="Arushi Ojha" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/light.svg">
+</picture>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=E6007A&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Training+%7C+Bengaluru;Focusing+on+Scalable+Backend+%26+Cloud+Architecture;B.Sc.+Computer+Science+%40+Jain+University;Actively+seeking+SWE+internships." alt="Typing SVG" />
-  </a>
-</p>
+<!-- ===== GITHUB STATS ===== -->
 
-<p align="center">
-  <a href="https://linkedin.com/in/arushiojha2006/">
-    <!-- White badges with Pink logos/text -->
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=E6007A" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:arushiojha100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=E6007A" alt="Gmail"/>
-  </a>
-</p>
+<div align="center">
 
----
+<!-- Streak — full width -->
+<picture>
+  <!-- Dark Mode (Deep Navy/Black with Vibrant Hot Pink) -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=arushiojha2006&hide_border=true&background=0D1117&stroke=E6007A&ring=FFB6C1&fire=E6007A&currStreakLabel=FFB6C1&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B949E&titleColor=E6007A&card_width=1180" />
+  <!-- Light Mode (Crisp White with Hot Pink) -->
+  <img width="100%" src="https://streak-stats.demolab.com/?user=arushiojha2006&hide_border=true&background=FFFFFF&stroke=E6007A&ring=FFB6C1&fire=E6007A&currStreakLabel=E6007A&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=E6007A&card_width=1180" alt="GitHub Streak" />
+</picture>
 
-<h2 align="center" style="color: #E6007A;">Capabilities & Focus Areas</h2>
+<br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 style="color: #E6007A;">Backend Engineering & API Design</h4>
-      <ul>
-        <li>Developing robust APIs and microservices using <b>Python (FastAPI, Flask)</b> and <b>Node.js (Express)</b>.</li>
-        <li>Database modeling and management with SQL and NoSQL (MongoDB).</li>
-        <li>Implementing application logic and predictive modeling integration.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=E6007A" alt="Python"/>
-        <img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=E6007A" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=E6007A" alt="MongoDB"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 style="color: #E6007A;">Full-Stack & Desktop Application Development</h4>
-      <ul>
-        <li>Building interactive user interfaces with <b>React.js</b>.</li>
-        <li>Cross-platform desktop application development using <b>Electron</b>.</li>
-        <li>Experience with data visualization and application auto-update implementations.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=E6007A" alt="React"/>
-        <img src="https://img.shields.io/badge/Electron-ffffff?style=flat-square&logo=electron&logoColor=E6007A" alt="Electron"/>
-        <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=E6007A" alt="JavaScript"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 style="color: #E6007A;">Systems Programming & Cloud Architecture</h4>
-      <ul>
-        <li>Strong foundation in Data Structures and Algorithms using <b>C++</b>.</li>
-        <li>Deploying and managing infrastructure on <b>Google Cloud Platform (GCP)</b>.</li>
-        <li>Version control and collaborative workflow management with Git/GitHub.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=c%2B%2B&logoColor=E6007A" alt="C++"/>
-        <img src="https://img.shields.io/badge/GCP-ffffff?style=flat-square&logo=google-cloud&logoColor=E6007A" alt="GCP"/>
-        <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=E6007A" alt="Git"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 style="color: #E6007A;">Technical Arsenal</h4>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,fastapi,html,css,gcp,git,github,visualstudio,linux,latex&perline=4" alt="Tech Stack Icons" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=E6007A&icon_color=FFB6C1&text_color=94A3B8&bg_color=0D1117&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=E6007A&icon_color=FFB6C1&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=compact&langs_count=8&hide_border=true&title_color=E6007A&text_color=94A3B8&bg_color=0D1117&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=compact&langs_count=8&hide_border=true&title_color=E6007A&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top Languages" />
+</picture>
 
----
+</div>
 
-<h2 align="center" style="color: #E6007A;">GitHub Analytics & Charts</h2>
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 
-<p align="center">
-  <!-- General Stats Card (Pink & White) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&title_color=E6007A&icon_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%">
+<div align="center">
+
+<picture>
+  <!-- Assuming your GitHub Action outputs snake-dark.svg and snake-light.svg to an 'output' branch -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/snake-light.svg" />
+</picture>
+
+</div>
+
+<!-- ===== END SNAKE ===== -->
+<br/>
+
+<!-- ===== DYNAMIC PROJECTS GRID ===== -->
+<!-- Replaces the static projects.svg with live, theme-aware cards showcasing your capabilities and repos -->
+
+<div align="center">
+  <p align="left" style="color: #E6007A; font-family: monospace; font-size: 14px;"><code>PROJECTS.LIST  ./projects.sh --all</code></p>
   
-  <!-- Languages Pie Chart (Using Profile Summary Cards) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arushiojha2006&theme=default" alt="Top Languages Pie Chart" width="48%">
-</p>
-
-<p align="center">
-  <!-- Activity Graph (Line Chart) dynamically generated in Pink -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arushiojha2006&bg_color=ffffff&color=E6007A&line=E6007A&point=E6007A&area=true&hide_border=true" alt="Activity Graph Line Chart" width="100%">
-</p>
-
----
-
-<h2 align="center" style="color: #E6007A;">Contribution Snake Animation</h2>
-
-<!-- 
-  NOTE: This uses the correct raw.githubusercontent.com path. 
-  If this still shows a 404, you need to create a .yml file in your repository 
-  to run the Action that generates this image. 
--->
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arushiojha2006&repo=Sanket&bg_color=0D1117&title_color=E6007A&text_color=94A3B8&icon_color=FFB6C1&border_color=30363D&border_radius=10" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arushiojha2006&repo=Sanket&bg_color=FFFFFF&title_color=E6007A&text_color=0F172A&icon_color=FFB6C1&border_color=E2E8F0&border_radius=10" alt="Sanket Repo" />
   </picture>
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arushiojha2006&repo=SAR-A&bg_color=0D1117&title_color=E6007A&text_color=94A3B8&icon_color=FFB6C1&border_color=30363D&border_radius=10" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arushiojha2006&repo=SAR-A&bg_color=FFFFFF&title_color=E6007A&text_color=0F172A&icon_color=FFB6C1&border_color=E2E8F0&border_radius=10" alt="SAR-A Repo" />
+  </picture>
 
----
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arushiojha2006&repo=Lady-Whistledown&bg_color=0D1117&title_color=E6007A&text_color=94A3B8&icon_color=FFB6C1&border_color=30363D&border_radius=10" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arushiojha2006&repo=Lady-Whistledown&bg_color=FFFFFF&title_color=E6007A&text_color=0F172A&icon_color=FFB6C1&border_color=E2E8F0&border_radius=10" alt="Lady Whistledown Repo" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arushiojha2006&repo=Sibyl&bg_color=0D1117&title_color=E6007A&text_color=94A3B8&icon_color=FFB6C1&border_color=30363D&border_radius=10" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arushiojha2006&repo=Sibyl&bg_color=FFFFFF&title_color=E6007A&text_color=0F172A&icon_color=FFB6C1&border_color=E2E8F0&border_radius=10" alt="Sibyl Repo" />
+  </picture>
+</div>
+
+<!-- ===== SOCIAL BADGES ===== -->
+<br/><br/>
+<div align="center">
+
+<a href="https://linkedin.com/in/arushiojha2006/">
+  <img src="https://img.shields.io/badge/LinkedIn-E6007A?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=linkedin" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:arushiojha100@gmail.com">
+  <img src="https://img.shields.io/badge/Email-E6007A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+</a>
+
+</div>
+<!-- ===== END SOCIAL BADGES ===== -->

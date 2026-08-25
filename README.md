@@ -1,18 +1,20 @@
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
 <p align="center">
   <picture>
-    <!-- Check if your branch is 'main' or 'master', and ensure the file is exactly lowercase 'dark.svg' -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/light.svg">
     <img alt="Arushi Ojha Banner" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/light.svg" width="100%">
   </picture>
 </p>
 
+<!-- ===== TYPING TEXT ===== -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=E6007A&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Training+%7C+Bengaluru;Focusing+on+Scalable+Backend+%26+Cloud+Architecture;Batchelors+in+Computer+Science+%40+Jain+University;Actively+seeking+SWE+internships." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=E6007A&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Training+%7C+Bengaluru;Focusing+on+Scalable+Backend+%26+Cloud+Architecture;Batchelors+in+Computer+Science+%40+Jain+University;Actively+seeking+SWE+internships.&v=1" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
   <a href="https://linkedin.com/in/arushiojha2006/">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=E6007A" alt="LinkedIn"/>
@@ -82,22 +84,27 @@
 
 ---
 
+<!-- ===== DYNAMIC CHARTS (With Cache Busting v=2) ===== -->
 <h2 align="center" style="color: #E6007A;">GitHub Analytics & Charts</h2>
 
-<p align="center">
-  <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&title_color=E6007A&icon_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&title_color=E6007A&icon_color=FFB6C1&text_color=94A3B8&bg_color=0D1117&hide_border=true&border_radius=10&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&title_color=E6007A&icon_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10&v=2" alt="GitHub Stats" width="48%">
+  </picture>
   
-  <!-- Donut/Pie Chart for Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=donut&title_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10" alt="Top Languages Pie Chart" width="48%">
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=donut&title_color=E6007A&text_color=94A3B8&bg_color=0D1117&hide_border=true&border_radius=10&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=donut&title_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10&v=2" alt="Top Languages Donut Chart" width="48%">
+  </picture>
+</div>
 
 ---
 
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 <h2 align="center" style="color: #E6007A;">Contribution Snake Animation</h2>
 
 <p align="center">
-  <!-- Points directly to snake-dark.svg in the root (main branch) directory as requested -->
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/main/snake-dark.svg" width="100%">
 </p>
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Aru.png" alt="Arushi" width="150" style="border-radius: 50%; border: 2px solid #E6007A;">
+  <img src="Aru.png" alt="Arushi" width="150" style="border-radius: 50%; border: 3px solid #E6007A;">
 </p>
 
 <h1 align="center" style="color: #E6007A;">Arushi Ojha</h1>
@@ -12,52 +12,17 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/arushiojha2006/">
-    <img src="https://img.shields.io/badge/LinkedIn-E6007A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <!-- White badges with Pink logos/text -->
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=E6007A" alt="LinkedIn"/>
   </a>
   <a href="mailto:arushiojha100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E6007A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=E6007A" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center" style="color: #E6007A;">About Me</h2>
-<p align="center">
-  Passionate Software Engineering student focusing on data structures, backend development, and cloud technologies.<br>
-  Actively involved in technical leadership as a Campus Mantri for GeeksforGeeks and contributing to open-source programs like GSSoC, Hacktoberfest, and SWoC.
-</p>
-
----
-
-<h2 align="center" style="color: #E6007A;">GitHub Analytics & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&theme=radical&count_private=true&title_color=E6007A&icon_color=E6007A&text_color=000000&bg_color=ffffff&hide_border=true" alt="Arushi's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=compact&theme=radical&title_color=E6007A&icon_color=E6007A&text_color=000000&bg_color=ffffff&hide_border=true" alt="Top Languages" width="48%">
-</p>
-
-<!-- 
-  NOTE: This snake animation requires a GitHub Action setup in your repository.
-  You need to create a workflow file (e.g., .github/workflows/snake.yml) that uses 'platane/snk' 
-  to generate the SVG file. Below is the image link that will display the generated SVG.
--->
-<p align="center">
-  <img src="https://github.com/arushiojha2006/arushiojha2006/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
-</p>
-
----
-
-<h2 align="center" style="color: #E6007A;">Technical Skills & Arsenal</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,fastapi,html,css,gcp,git,github,visualstudio,linux,latex&perline=8" alt="Tech Stack Icons" />
-  </a>
-</p>
-
----
-
-<h2 align="center" style="color: #E6007A;">Core Capabilities</h2>
+<h2 align="center" style="color: #E6007A;">Capabilities & Focus Areas</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -69,9 +34,9 @@
         <li>Implementing application logic and predictive modeling integration.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-E6007A?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/FastAPI-E6007A?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/MongoDB-E6007A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=E6007A" alt="Python"/>
+        <img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=E6007A" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=E6007A" alt="MongoDB"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -82,9 +47,9 @@
         <li>Experience with data visualization and application auto-update implementations.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/React-E6007A?style=flat-square&logo=react&logoColor=white" alt="React"/>
-        <img src="https://img.shields.io/badge/Electron-E6007A?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
-        <img src="https://img.shields.io/badge/JavaScript-E6007A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=E6007A" alt="React"/>
+        <img src="https://img.shields.io/badge/Electron-ffffff?style=flat-square&logo=electron&logoColor=E6007A" alt="Electron"/>
+        <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=E6007A" alt="JavaScript"/>
       </p>
     </td>
   </tr>
@@ -97,19 +62,54 @@
         <li>Version control and collaborative workflow management with Git/GitHub.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/C++-E6007A?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/GCP-E6007A?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
-        <img src="https://img.shields.io/badge/Git-E6007A?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=c%2B%2B&logoColor=E6007A" alt="C++"/>
+        <img src="https://img.shields.io/badge/GCP-ffffff?style=flat-square&logo=google-cloud&logoColor=E6007A" alt="GCP"/>
+        <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=E6007A" alt="Git"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <!-- You can add a fourth capability or leave this empty for balance -->
+      <h4 style="color: #E6007A;">Technical Arsenal</h4>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,fastapi,html,css,gcp,git,github,visualstudio,linux,latex&perline=4" alt="Tech Stack Icons" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-<p align="center" style="color: #E6007A;">
-  Let's connect and build something impactful.
+<h2 align="center" style="color: #E6007A;">GitHub Analytics & Charts</h2>
+
+<p align="center">
+  <!-- General Stats Card (Pink & White) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&title_color=E6007A&icon_color=E6007A&text_color=434d58&bg_color=ffffff&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%">
+  
+  <!-- Languages Pie Chart (Using Profile Summary Cards) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arushiojha2006&theme=default" alt="Top Languages Pie Chart" width="48%">
 </p>
+
+<p align="center">
+  <!-- Activity Graph (Line Chart) dynamically generated in Pink -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arushiojha2006&bg_color=ffffff&color=E6007A&line=E6007A&point=E6007A&area=true&hide_border=true" alt="Activity Graph Line Chart" width="100%">
+</p>
+
+---
+
+<h2 align="center" style="color: #E6007A;">Contribution Snake Animation</h2>
+
+<!-- 
+  NOTE: This uses the correct raw.githubusercontent.com path. 
+  If this still shows a 404, you need to create a .yml file in your repository 
+  to run the Action that generates this image. 
+-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arushiojha2006/arushiojha2006/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---

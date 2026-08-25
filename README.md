@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="Aru.png" alt="Hi, I'm Arushi" width="150" style="border-radius: 50%;">
+  <img src="Aru.png" alt="Arushi" width="150" style="border-radius: 50%; border: 2px solid #E6007A;">
 </p>
 
-<h1 align="center">Hi there, I'm Arushi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> 🌸</h1>
+<h1 align="center" style="color: #E6007A;">Arushi Ojha</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=E6007A&center=true&width=800&lines=Passionate+Software+Engineer+%26+Computer+Science+student+in+Bengaluru.;B.Sc.+in+Physics%2C+Mathematics%2C+and+Computer+Science+at+Jain+University.;Building+high-impact+apps+%7C+Open-Source+Contributor+;Actively+seeking+challenging+Software+Engineering+internships!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=E6007A&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Training+%7C+Bengaluru;Focusing+on+Scalable+Backend+%26+Cloud+Architecture;B.Sc.+Computer+Science+%40+Jain+University;Actively+seeking+SWE+internships." alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,89 +19,97 @@
   </a>
 </p>
 
-<br>
+---
 
-<h2 align="center">🎀 About Me 🎀</h2>
+<h2 align="center" style="color: #E6007A;">About Me</h2>
 <p align="center">
-  🌱 <b>Currently Learning:</b> Mastering Data Structures and Algorithms in <b>C++</b> and earning <b>Google Cloud Platform (GCP)</b> skill badges.<br>
-  👯 <b>Community & Leadership:</b> Proud Campus Mantri for GeeksforGeeks.<br>
-  🌍 <b>Open Source:</b> Active contributor to programs like GirlScript Summer of Code (GSSoC), Hacktoberfest, and Social Winter of Code (SWoC).<br>
-  ⚡ <b>Fun Fact:</b> When I'm not coding, you can probably find me hunting down the best spicy chaat and momos in Bengaluru!
+  Passionate Software Engineering student focusing on data structures, backend development, and cloud technologies.<br>
+  Actively involved in technical leadership as a Campus Mantri for GeeksforGeeks and contributing to open-source programs like GSSoC, Hacktoberfest, and SWoC.
 </p>
 
+---
+
+<h2 align="center" style="color: #E6007A;">GitHub Analytics & Activity</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="600" alt="divider">
+  <img src="https://github-readme-stats.vercel.app/api?username=arushiojha2006&show_icons=true&theme=radical&count_private=true&title_color=E6007A&icon_color=E6007A&text_color=000000&bg_color=ffffff&hide_border=true" alt="Arushi's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushiojha2006&layout=compact&theme=radical&title_color=E6007A&icon_color=E6007A&text_color=000000&bg_color=ffffff&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
-<h2 align="center">🌸 My Top Languages & Arsenal 🌸</h2>
+<!-- 
+  NOTE: This snake animation requires a GitHub Action setup in your repository.
+  You need to create a workflow file (e.g., .github/workflows/snake.yml) that uses 'platane/snk' 
+  to generate the SVG file. Below is the image link that will display the generated SVG.
+-->
+<p align="center">
+  <img src="https://github.com/arushiojha2006/arushiojha2006/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
+</p>
+
+---
+
+<h2 align="center" style="color: #E6007A;">Technical Skills & Arsenal</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,fastapi,html,css,gcp,git,github&perline=7" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,fastapi,html,css,gcp,git,github,visualstudio,linux,latex&perline=8" alt="Tech Stack Icons" />
   </a>
 </p>
 
-<p align="center"><b>What I work with most:</b></p>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>C++</b><br>Data Structures & Algorithms</td>
-      <td align="center"><b>Python</b><br>Backend & Data Modeling</td>
-      <td align="center"><b>JavaScript & React</b><br>Frontend & Desktop Apps</td>
-      <td align="center"><b>GCP</b><br>Cloud Infrastructure</td>
-    </tr>
-  </table>
-</div>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="600" alt="divider">
-</p>
+<h2 align="center" style="color: #E6007A;">Core Capabilities</h2>
 
-<h2 align="center">✨ Recent Projects ✨</h2>
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💌 Lady Whistledown</h3>
-      <p align="center">
-        <i>A sleek desktop application built to beautifully visualize the structure of code repositories. Includes a seamless auto-update feature.</i>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Electron-E6007A?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
-        <img src="https://img.shields.io/badge/React-E6007A?style=flat-square&logo=react&logoColor=white" alt="React"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 Sanket</h3>
-      <p align="center">
-        <i>A predictive economic intelligence platform for India that forecasts hyper-local inflation based on government data and migration trends.</i>
-      </p>
-      <p align="center">
+      <h4 style="color: #E6007A;">Backend Engineering & API Design</h4>
+      <ul>
+        <li>Developing robust APIs and microservices using <b>Python (FastAPI, Flask)</b> and <b>Node.js (Express)</b>.</li>
+        <li>Database modeling and management with SQL and NoSQL (MongoDB).</li>
+        <li>Implementing application logic and predictive modeling integration.</li>
+      </ul>
+      <p>
         <img src="https://img.shields.io/badge/Python-E6007A?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/React-E6007A?style=flat-square&logo=react&logoColor=white" alt="React"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <br>
-      <h3 align="center">🍳 Sibyl</h3>
-      <p align="center">
-        <i>An intelligent recipe discovery platform that connects users with meals based on available ingredients.</i>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-E6007A?style=flat-square&logo=react&logoColor=white" alt="React"/>
         <img src="https://img.shields.io/badge/FastAPI-E6007A?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/MongoDB-E6007A?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h4 style="color: #E6007A;">Full-Stack & Desktop Application Development</h4>
+      <ul>
+        <li>Building interactive user interfaces with <b>React.js</b>.</li>
+        <li>Cross-platform desktop application development using <b>Electron</b>.</li>
+        <li>Experience with data visualization and application auto-update implementations.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-E6007A?style=flat-square&logo=react&logoColor=white" alt="React"/>
+        <img src="https://img.shields.io/badge/Electron-E6007A?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+        <img src="https://img.shields.io/badge/JavaScript-E6007A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 style="color: #E6007A;">Systems Programming & Cloud Architecture</h4>
+      <ul>
+        <li>Strong foundation in Data Structures and Algorithms using <b>C++</b>.</li>
+        <li>Deploying and managing infrastructure on <b>Google Cloud Platform (GCP)</b>.</li>
+        <li>Version control and collaborative workflow management with Git/GitHub.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/C++-E6007A?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/GCP-E6007A?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
+        <img src="https://img.shields.io/badge/Git-E6007A?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- You can add a fourth capability or leave this empty for balance -->
+    </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="600" alt="divider">
-</p>
+---
 
-<p align="center">
-  <i>Let's connect and build something amazing together! 🎀</i>
+<p align="center" style="color: #E6007A;">
+  Let's connect and build something impactful.
 </p>

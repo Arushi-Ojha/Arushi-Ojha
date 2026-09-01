@@ -85,5 +85,6 @@ pie showData
 
 <br/>
 <div align="center">
-<img src="./END.png" alt="Footer" width="100%" />
+<img src="./Ojha.png" alt="Footer Left" width="60%" />
+<img src="./END.png" alt="Footer Right" width="35%" />
 </div>

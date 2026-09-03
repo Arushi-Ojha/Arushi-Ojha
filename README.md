@@ -2,10 +2,10 @@
 <img src="./light (1).png" alt="Banner" width="55%" />
 <br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=900&color=FF4D6D&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Arushi+Ojha;Software+Engineer+in+Training;Scalable+Backend+%26+Cloud+Architecture;Actively+Seeking+SWE+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=900&color=FF4D6D&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Arushi+Ojha;Software+Engineering;Scalable+Backend+%26+Cloud+Architecture;Portfolio+Filled+With+SWE+Internships" alt="Typing SVG" />
 </a>
 <br/>
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-FF4D6D?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/STATUS-Backend%20Development%20Internship%20Experience-FF4D6D?style=for-the-badge&labelColor=0D0D0D" />
 <img src="https://img.shields.io/badge/LOCATION-Bengaluru%2C%20India-FF7F50?style=for-the-badge&labelColor=0D0D0D" />
 <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Cloud-FF1493?style=for-the-badge&labelColor=0D0D0D" />
 </div>

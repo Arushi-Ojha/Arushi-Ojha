@@ -1,5 +1,6 @@
 <div align="center">
 <img src="./light (1).png" alt="Banner" width="55%" />
+<iframe src="https://github.com/sponsors/Arushi-Ojha/card" title="Sponsor Arushi-Ojha" height="225" width="600" style="border: 0;"></iframe>
 <br/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=900&color=FF4D6D&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Arushi+Ojha;Software+Engineer+in+Training;Scalable+Backend+%26+Cloud+Architecture;Actively+Seeking+SWE+Internships" alt="Typing SVG" />
